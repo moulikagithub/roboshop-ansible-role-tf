@@ -1,10 +1,10 @@
-MONGODB_HOST: mongodb-dev.daws76s.online  # submit your host
-REDIS_HOST: redis-dev.daws76s.online 
-MYSQL_HOST: mysql-dev.daws76s.online 
-RABBITMQ_HOST: rabbitmq-dev.daws76s.online 
-CATALOGUE_HOST: catalogue-dev.daws76s.online 
-USER_HOST: user-dev.daws76s.online 
-CART_HOST: cart-dev.daws76s.online 
-SHIPPING_HOST: shipping-dev.daws76s.online 
-PAYMENT_HOST: payment-dev.daws76s.online 
-DISPATCH_HOST: dispatch-dev.daws76s.online 
+MONGODB_HOST: mongodb-dev.kalidindi.cloud  # submit your host
+REDIS_HOST: redis-dev.kalidindi.cloud 
+MYSQL_HOST: mysql-dev.kalidindi.cloud 
+RABBITMQ_HOST: rabbitmq-dev.kalidindi.cloud 
+CATALOGUE_HOST: catalogue-dev.kalidindi.cloud 
+USER_HOST: user-dev.kalidindi.cloud 
+CART_HOST: cart-dev.kalidindi.cloud 
+SHIPPING_HOST: shipping-dev.kalidindi.cloud 
+PAYMENT_HOST: payment-dev.kalidindi.cloud 
+DISPATCH_HOST: dispatch-dev.kalidindi.cloud 
