@@ -1,4 +1,4 @@
-mongodb_host: mongodb-dev.kalidindi.cloud  # submit your host
+mongodb_host: mongodb-dev.kalidindi.cloud  
 redis_host: redis-dev.kalidindi.cloud 
 mysql_host: mysql-dev.kalidindi.cloud 
 rabbitmq_host: rabbitmq-dev.kalidindi.cloud 
