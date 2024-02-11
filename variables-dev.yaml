@@ -8,3 +8,5 @@ cart_host: cart.app-dev.kalidindi.cloud
 shipping_host: shipping.app-dev.kalidindi.cloud 
 payment_host: payment.app-dev.kalidindi.cloud 
 dispatch_host: dispatch.app-dev.kalidindi.cloud 
+nexus_url: http://172.31.11.253:8081/repository
+group_id: "com/roboshop"

@@ -1,10 +1,12 @@
-MONGODB_HOST: mongodb-prod.kalidindi.cloud  # submit your host
-REDIS_HOST: redis-prod.kalidindi.cloud 
-MYSQL_HOST: mysql-prod.kalidindi.cloud 
-RABBITMQ_HOST: rabbitmq-prod.kalidindi.cloud 
-CATALOGUE_HOST: catalogue-prod.kalidindi.cloud 
-USER_HOST: user-prod.kalidindi.cloud 
-CART_HOST: cart-prod.kalidindi.cloud 
-SHIPPING_HOST: shipping-prod.kalidindi.cloud 
-PAYMENT_HOST: payment-prod.kalidindi.cloud 
-DISPATCH_HOST: dispatch-prod.kalidindi.cloud 
+mongodb_host: mongodb-prod.kalidindi.cloud  # submit your host
+redis_host: redis-prod.kalidindi.cloud 
+mysql_host: mysql-prod.kalidindi.cloud 
+rabbitmq_host: rabbitmq-prod.kalidindi.cloud 
+catalogue_host: catalogue-prod.kalidindi.cloud 
+user_host: user-prod.kalidindi.cloud 
+cart_host: cart-prod.kalidindi.cloud 
+shipping_host: shipping-prod.kalidindi.cloud 
+payment_host: payment-prod.kalidindi.cloud 
+dispatch_host: dispatch-prod.kalidindi.cloud 
+nexus_url: http://172.31.11.253:8081/repository
+group_id: "com/roboshop"
